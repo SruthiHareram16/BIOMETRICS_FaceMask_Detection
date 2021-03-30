@@ -1,2 +1,4 @@
 # BIOMETRICS_FaceMask_Detection
-Project to detect people wearing face masks
+Project to detect people wearing face masks.
+
+# CODE RUNNING INSTRUCTIONS
