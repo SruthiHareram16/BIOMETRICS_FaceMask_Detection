@@ -9,4 +9,4 @@ Developed a model to detect whether people wearing face masks or not. We have de
 
 Datasets -
 - https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
-- 
+- https://github.com/chandrikadeb7/Face-Mask-Detection
