@@ -8,4 +8,5 @@ Developed a model to detect whether people wearing face masks or not. We have de
 4. After executing the file you can see that the webcam window will be opened, where you can see that the model detecting faces with masks and without masks.
 
 Datasets -
-- sdnflsdk
+- https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
+- 
